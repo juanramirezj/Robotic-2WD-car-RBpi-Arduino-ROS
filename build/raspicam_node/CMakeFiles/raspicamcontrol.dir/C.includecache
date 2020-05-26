@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ubuntu/catkin_ws/src/raspicam_node/include/RaspiCLI.h
+
+/home/ubuntu/catkin_ws/src/raspicam_node/include/RaspiCamControl.h
+
+/home/ubuntu/catkin_ws/src/raspicam_node/src/RaspiCamControl.c
+stdio.h
+-
+memory.h
+-
+ctype.h
+-
+interface/vcos/vcos.h
+/home/ubuntu/catkin_ws/src/raspicam_node/src/interface/vcos/vcos.h
+interface/vmcs_host/vc_vchi_gencmd.h
+/home/ubuntu/catkin_ws/src/raspicam_node/src/interface/vmcs_host/vc_vchi_gencmd.h
+interface/mmal/mmal.h
+/home/ubuntu/catkin_ws/src/raspicam_node/src/interface/mmal/mmal.h
+interface/mmal/mmal_logging.h
+/home/ubuntu/catkin_ws/src/raspicam_node/src/interface/mmal/mmal_logging.h
+interface/mmal/util/mmal_util.h
+/home/ubuntu/catkin_ws/src/raspicam_node/src/interface/mmal/util/mmal_util.h
+interface/mmal/util/mmal_util_params.h
+/home/ubuntu/catkin_ws/src/raspicam_node/src/interface/mmal/util/mmal_util_params.h
+interface/mmal/util/mmal_default_components.h
+/home/ubuntu/catkin_ws/src/raspicam_node/src/interface/mmal/util/mmal_default_components.h
+RaspiCamControl.h
+/home/ubuntu/catkin_ws/src/raspicam_node/src/RaspiCamControl.h
+RaspiCLI.h
+/home/ubuntu/catkin_ws/src/raspicam_node/src/RaspiCLI.h
+

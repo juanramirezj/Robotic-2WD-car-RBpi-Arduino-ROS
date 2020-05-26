@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/ubuntu/catkin_ws/devel/lib/libraspicamcontrol.a  CMakeFiles/raspicamcontrol.dir/src/RaspiCamControl.c.o
+/usr/bin/ranlib /home/ubuntu/catkin_ws/devel/lib/libraspicamcontrol.a

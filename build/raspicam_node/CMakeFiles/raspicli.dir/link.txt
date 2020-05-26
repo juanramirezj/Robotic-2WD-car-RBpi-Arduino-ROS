@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/ubuntu/catkin_ws/devel/lib/libraspicli.a  CMakeFiles/raspicli.dir/src/RaspiCLI.c.o
+/usr/bin/ranlib /home/ubuntu/catkin_ws/devel/lib/libraspicli.a

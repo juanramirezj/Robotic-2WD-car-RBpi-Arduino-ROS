@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ubuntu/catkin_ws/src/raspicam_node/include/RaspiCLI.h
+
+/home/ubuntu/catkin_ws/src/raspicam_node/src/RaspiCLI.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+memory.h
+-
+interface/vcos/vcos.h
+/home/ubuntu/catkin_ws/src/raspicam_node/src/interface/vcos/vcos.h
+RaspiCLI.h
+/home/ubuntu/catkin_ws/src/raspicam_node/src/RaspiCLI.h
+
